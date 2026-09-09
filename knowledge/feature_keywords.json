@@ -1,0 +1,28 @@
+{
+    "gaming": [
+        "gaming",
+        "performance",
+        "fps",
+        "processor"
+    ],
+
+    "camera": [
+        "camera",
+        "photography",
+        "photo",
+        "video"
+    ],
+
+    "battery": [
+        "battery",
+        "charging",
+        "mah"
+    ],
+
+    "display": [
+        "amoled",
+        "oled",
+        "display",
+        "refresh rate"
+    ]
+}

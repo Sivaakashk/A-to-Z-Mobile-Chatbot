@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="login-container">
+
+    <h1>📱 MobileBot</h1>
+
+    <p>Login to save your chat history</p>
+
+    <button id="google-login">
+
+        Continue with Google
+
+    </button>
+
+</div>
+
+<script
+    src="{{ url_for('static', filename='js/firebase-auth.js') }}"
+></script>
+
+{% endblock %}

@@ -1,0 +1,78 @@
+[
+    {
+        "brand": "Samsung",
+        "model": "Galaxy A56",
+        "full_name": "Samsung Galaxy A56",
+        "price": 41999,
+        "processor": "Exynos 1580",
+        "display": "6.7-inch Super AMOLED 120Hz",
+        "camera": "50MP + 12MP + 5MP",
+        "battery": "5000mAh, 45W Charging",
+        "ram": "8GB",
+        "storage": "128GB",
+        "ratings": {
+            "overall": 8.5,
+            "gaming": 7.5,
+            "camera": 8.5,
+            "battery": 8.5,
+            "display": 9.0
+        }
+    },
+    {
+        "brand": "OnePlus",
+        "model": "Nord 4",
+        "full_name": "OnePlus Nord 4",
+        "price": 29999,
+        "processor": "Snapdragon 7+ Gen 3",
+        "display": "6.74-inch AMOLED 120Hz",
+        "camera": "50MP + 8MP",
+        "battery": "5500mAh, 100W Charging",
+        "ram": "8GB",
+        "storage": "256GB",
+        "ratings": {
+            "overall": 9.0,
+            "gaming": 9.0,
+            "camera": 8.0,
+            "battery": 9.0,
+            "display": 9.0
+        }
+    },
+    {
+        "brand": "POCO",
+        "model": "X7 Pro",
+        "full_name": "POCO X7 Pro",
+        "price": 27999,
+        "processor": "Dimensity 8400 Ultra",
+        "display": "6.67-inch AMOLED 120Hz",
+        "camera": "50MP + 8MP",
+        "battery": "6550mAh, 90W Charging",
+        "ram": "8GB",
+        "storage": "256GB",
+        "ratings": {
+            "overall": 9.0,
+            "gaming": 9.5,
+            "camera": 7.5,
+            "battery": 9.5,
+            "display": 9.0
+        }
+    },
+    {
+        "brand": "Nothing",
+        "model": "Phone 2a",
+        "full_name": "Nothing Phone 2a",
+        "price": 23999,
+        "processor": "MediaTek Dimensity 7200 Pro",
+        "display": "6.7-inch AMOLED 120Hz",
+        "camera": "50MP + 50MP",
+        "battery": "5000mAh, 45W Charging",
+        "ram": "8GB",
+        "storage": "128GB",
+        "ratings": {
+            "overall": 8.5,
+            "gaming": 8.0,
+            "camera": 8.5,
+            "battery": 8.5,
+            "display": 9.0
+        }
+    }
+]

@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+
+    body {
+        background: white;
+    }
+
+    .app-container {
+        max-width: 100%;
+        box-shadow: none;
+    }
+
+    .message-content {
+        max-width: 90%;
+    }
+
+    .suggestions {
+        overflow-x: auto;
+    }
+
+    .suggestions button {
+        white-space: nowrap;
+    }
+}
